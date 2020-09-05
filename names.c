@@ -14,7 +14,7 @@
 
 int main(int argc, char **argv) {
 
-    //Christopher Bayliss
-    printf("Christopher Bayliss\n");
+    //Christopher Bayliss Jacob Volling
+    printf("Christopher Bayliss Jacob Volling\n");
 
 }
